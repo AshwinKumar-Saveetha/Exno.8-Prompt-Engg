@@ -28,7 +28,7 @@ To perform the Exploration of Prompting Techniques for Audio Generation.
 
 ---
 
-### **Prompt Examples:**
+### **Prompt**
 
 * Generate a piece of ambient background music suitable for a focus/study session.
 * The audio should be calm, loopable, and approximately 30 seconds in length. Avoid sudden changes in tone,
